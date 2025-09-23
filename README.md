@@ -1,3 +1,6 @@
+
+![Unified Contacts](UnifiedContacts/unifiedcontacts.client/src/assets/images/shape-products-unified-contacts.svg)
+
 # The issue: Using contacts in Microsoft Teams
 
 Unified Contacts is a Microsoft Teams app helping you to optimize contact search in the Teams ecosystem.
