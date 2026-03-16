@@ -3,7 +3,7 @@
 
 # The issue: Using contacts in Microsoft Teams
 
-Unified Contacts is a Microsoft Teams app helping you to optimize contact search in the Teams ecosystem.
+Unified Contacts is a Microsoft Teams app helping you to optimize contact search in the Teams ecosystem. +39 versions.
 
 Microsoft Teams is a great tool for collaboration and communication. Unfortunately, it's quite difficult to find contacts for various reasons. For example:
 
